@@ -86,8 +86,3 @@ This tool is intended for educational and authorized security testing purposes o
 The author is not responsible for any misuse or damage caused by this software.
 
 ---
-
-📜 License
-
-This project is licensed under the MIT License – see the LICENSE file for details.
-`
