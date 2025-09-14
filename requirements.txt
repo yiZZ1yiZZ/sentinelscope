@@ -1,0 +1,4 @@
+requests>=2.31.0
+python-whois>=0.8.0
+phonenumbers>=8.13.0
+colorama>=0.4.6
